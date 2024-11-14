@@ -113,26 +113,15 @@
           href="#"
           class="flex justify-center items-center mb-5 font-semibold text-2xl text-gray-900 dark:text-white"
         >
-          <img
+          <!-- <img
             src="./images/logo.svg"
             class="mr-3 h-6 sm:h-9"
             alt="Landwind Logo"
-          />
-          Landwind
+          /> -->
+          Yaramay
         </a>
         <span class="block text-center text-gray-500 text-sm dark:text-gray-400"
-          >© 2021-2022 Landwind™. All Rights Reserved. Built with
-          <a
-            href="https://flowbite.com"
-            class="text-purple-600 dark:text-purple-500 hover:underline"
-            >Flowbite</a
-          >
-          and
-          <a
-            href="https://tailwindcss.com"
-            class="text-purple-600 dark:text-purple-500 hover:underline"
-            >Tailwind CSS</a
-          >.
+          >© 2024 Yaramay. All Rights Reserved..
         </span>
         <ul class="flex justify-center space-x-5 mt-5">
           <li>
